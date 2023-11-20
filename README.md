@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 - A page to show good projections from resources --> numberfire, covers.com, action network, etc
 
-- Add feature, prop saver to see if you would have cashed your lineup or nott
+- Add feature, prop saver to see if you would have cashed your lineup or not
